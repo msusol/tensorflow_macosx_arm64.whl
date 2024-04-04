@@ -3,6 +3,8 @@
 Download all [three wheels](../dist) into a new directory to install for 
 silicon Macs:
 
+> Note: Look for the wheels over here for now https://github.com/msusol/jupyter-notebook-on-macos/tree/main/dist
+
 ```shell
 % pip install tensorflow_io_gcs_filesystem-0.34.0-cp311-cp311-macosx_14_0_universal2.whl
 % pip install tensorflow-2.15.0-cp311-cp311-macosx_14_0_arm64.whl
